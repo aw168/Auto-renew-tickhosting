@@ -1,4 +1,4 @@
 Server ID: 5ccb3558
-Renew status: Failed
-Last renewal time: 2024-12-29 01:12:36
-Error: Time not extended
+Renew status: Success
+Last renewal time: 2025-01-01 01:12:15
+New expiration time: 2025-01-14 06:22:17
