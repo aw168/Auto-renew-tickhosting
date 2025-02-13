@@ -1,32 +1,4 @@
 Server ID: Unknown
 Renew status: Failed
-Last renewal time: 2025-02-09 01:07:17
-Error: Timeout error: Message: timeout: Timed out receiving message from renderer: 29.817
-  (Session info: chrome=132.0.6834.160)
-Stacktrace:
-	GetHandleVerifier [0x00007FF72FC702F5+28725]
-	(No symbol) [0x00007FF72FBD2AE0]
-	(No symbol) [0x00007FF72FA6510A]
-	(No symbol) [0x00007FF72FA532C3]
-	(No symbol) [0x00007FF72FA52FBA]
-	(No symbol) [0x00007FF72FA50DD1]
-	(No symbol) [0x00007FF72FA5163F]
-	(No symbol) [0x00007FF72FA601CE]
-	(No symbol) [0x00007FF72FA7443D]
-	(No symbol) [0x00007FF72FA7AC3A]
-	(No symbol) [0x00007FF72FA51DA4]
-	(No symbol) [0x00007FF72FA74298]
-	(No symbol) [0x00007FF72FB004DD]
-	(No symbol) [0x00007FF72FADFD53]
-	(No symbol) [0x00007FF72FAAA0E3]
-	(No symbol) [0x00007FF72FAAB471]
-	GetHandleVerifier [0x00007FF72FF9F30D+3366989]
-	GetHandleVerifier [0x00007FF72FFB12F0+3440688]
-	GetHandleVerifier [0x00007FF72FFA78FD+3401277]
-	GetHandleVerifier [0x00007FF72FD3AAAB+858091]
-	(No symbol) [0x00007FF72FBDE74F]
-	(No symbol) [0x00007FF72FBDA304]
-	(No symbol) [0x00007FF72FBDA49D]
-	(No symbol) [0x00007FF72FBC8B69]
-	BaseThreadInitThunk [0x00007FFAC2EB4CB0+16]
-	RtlUserThreadStart [0x00007FFAC365EDCB+43]
+Last renewal time: 2025-02-13 01:03:53
+Error: An error occurred: Unable to login to dashboard
